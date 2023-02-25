@@ -1,2 +1,2 @@
 # quote-generator
-An implementation of freeCodeCamp javascipt challenge 
+An implementation of freeCodeCamp Javascript DOM manipulation challenge 
